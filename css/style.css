@@ -1,0 +1,11 @@
+body{
+	font-family: sans-serif;
+}
+.container-fluid{
+	/*background-color: #ffa500;*/
+	color: #ffa500;
+
+}
+.body{
+	margin-top: 100px;
+}

@@ -1,0 +1,209 @@
+/*---------------------------------------------------------------------------------------------*/
+
+	
+
+	.usd {
+		background-image:url("../../images/usa.png");
+		width:45px;
+		height:23px;
+		background-position: center;
+		background-size: contain;
+		}
+	.jyp {
+		background-image:url("../../images/jp.jpg");
+		width:45px;
+		height:23px;
+		background-position: center;
+		background-size: contain;
+		}
+	.krw {
+		background-image:url("../../images/krw.png");
+		width:45px;
+		height:23px;
+		background-position: center;
+		background-size: contain;
+		}
+	.gbp {
+		background-image:url("../../images/gbp.jpg");
+		width:45px;
+		height:23px;
+		background-position: center;
+		background-size: contain;
+		}
+	.eur {
+		background-image:url("../../images/eur.gif");
+		width:45px;
+		height:23px;
+		background-position: center;
+		background-size: contain;
+		}
+
+	.bootstrap-select > .dropdown-toggle {
+			color:#fff;
+			border-radius: 0px;
+			font-size: 18px;
+			background: url(dropdown.png) no-repeat right #243746;
+			border: 1px solid #ccc;	
+			z-index:10;
+			padding: 5px;
+		}
+
+	button.btn.dropdown-toggle.btn-default {
+			background-color: #fff;
+		}
+		
+		
+	.bootstrap-select.btn-group .filter-option {
+			background: url(dropdown.png) no-repeat right #fff;
+			color:#000;
+			
+		}
+		
+	.bootstrap-select > .dropdown-menu {
+			background-color: #fff;
+			color:#fff !important;
+			border-radius: 0px;
+		}
+
+
+	.dropdown-menu>li>a {
+			background-color: #fff;
+			color:#000;
+		}
+	.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {
+			background-color: #fff;
+			color:#000;
+			text-decoration: none;
+		}
+
+
+	.btn .dropdown-toggle .btn-default {
+		background-color: #243746;
+			color:#fff;
+			text-decoration: none;
+		}
+
+		
+
+
+
+
+.conv-wrap {
+	margin: 0px;
+	padding: 0px;
+	width:100%;
+}
+.conv-cont {
+	padding: 10px;
+	float: left;
+	width: 100%;
+	border: 1px solid #afafaf;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-moz-box-shadow: 0 0 6px -1px #919191;
+	-webkit-box-shadow: 0 0 6px -1px #919191;
+	box-shadow: 0 0 6px -1px #919191;
+}
+
+.conv-cont .cov-frm {
+	float: left;
+	width: 100%;
+	}
+
+.conv-cont .cov-frm .selectpicker {
+	font-size: 18px !important;
+	font-weight: bold !important;
+	text-decoration: none !important;
+	margin: 0px;
+	padding: 10px;
+	float: left;
+	width: 100%;
+	outline: none !important;
+}
+
+
+
+.conv-cont .cov-frm .cov-frm-label {
+	font-size: 14px;
+	color: #333333;
+	text-decoration: none;
+	margin: 0px;
+	float: left;
+	width: 100%;
+	padding: 5px;
+}
+.cov-frm{
+	margin-bottom: 30px;
+}
+.conv-cont .cov-frm .cov-frm-labeli {
+	font-size: 14px;
+	color: #a9a9a9;
+	text-decoration: none;
+	margin: 0px;
+	float: left;
+	width: 100%;
+	padding: 5px;
+	background-color: #FFF;
+}
+
+.cov-inp-bx div.col-md-8 , .cov-inp-bx div.col-md-4   {
+    padding: 0px;
+    margin: 0px;
+}
+
+.conv-cont .cov-frm .cov-inp-bx {
+	padding: 0px;
+	float: left;
+	width: 100%;
+	border: 1px solid #c2c2c2;
+	border-radius: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+.conv-cont .cov-frm .cov-frm-input {
+	font-size: 24px;
+	font-weight: bold;
+	color: #009cff;
+	text-decoration: none;
+	margin: 0px;
+	padding: 9px;
+	float: left;
+	width: 100%;
+	border: none;
+	outline: none;
+}
+.conv-cont .cov-frm .cov-frm-sbtm {
+	font-size: 20px;
+	font-weight: bold;
+	color: #FFF;
+	text-decoration: none;
+	background-color: #243746;
+	text-align: center;
+	margin: 0px;
+	float: left;
+	width: 100%;
+	padding-top: 13px;
+	padding-bottom: 13px;
+	border:none;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	cursor:pointer;
+}
+.conv-cont .cov-frm .cov-frm-sbtm:hover {
+	background: #980000;
+}
+.cov-spni {
+	font-size: 13px;
+	font-weight: normal;
+	color: #424242;
+	text-decoration: none;
+	line-height:50px;
+}
+.cov-spnii {
+	color: #333;
+}
+
+/*---------------------------------------------------------------------------------------------*/
